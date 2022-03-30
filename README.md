@@ -1,2 +1,2 @@
 # ilearn-gh
-test for laerning
+test for lerrning
